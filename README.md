@@ -1,2 +1,2 @@
 # verificaemail
-Script para verificar se o e-mail é valido
+Algoritmo em JS para testar se e-mail digitado é valido
